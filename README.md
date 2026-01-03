@@ -1,7 +1,7 @@
 # Hi 👋, I'm Sunil Kale
 
 🎓 Electrical Engineering Graduate  
-💻 Backend Developer | Python | IoT | Machine Learning  
+💻 Python Developer | IoT | Machine Learning  
 📍 India
 
 ---
